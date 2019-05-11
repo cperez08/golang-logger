@@ -81,7 +81,7 @@ log.Error.Println("Print log  with an  open file")
 
 - Create automatic rotation logs
 - Improve tests
-- Create Multiwrinting log std.Out and Files at the same time
+- Create MultiWriting log std.Out and Files at the same time
 
 
 ## Lincense
