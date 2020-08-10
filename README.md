@@ -88,7 +88,7 @@ log.Error.Println("Print log  with an  open file")
 
 - MIT LICENSE, see LICENSE file
 
-## Inspired by this Posts
+## Inspired by these Posts
 
 - https://www.ardanlabs.com/blog/2013/11/using-log-package-in-go.html 
 - https://stackoverflow.com/questions/28796021/how-can-i-log-in-golang-to-a-file-with-log-rotation
